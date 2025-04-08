@@ -1,4 +1,4 @@
-package resueltos.guia1.ejercicio2;
+package resueltos.guia1.ej02;
 
 public class Principal {
     public static void main(String[] args) {

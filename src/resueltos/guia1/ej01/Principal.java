@@ -1,4 +1,4 @@
-package resueltos.guia1.ejercicio1;
+package resueltos.guia1.ej01;
 
 /**
  *
